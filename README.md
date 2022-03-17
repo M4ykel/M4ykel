@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4ykel
 - 👀 I’m interested in learning more about programming.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate with other programmers.
 - 🎮 Fun fact: I love to play games.
 
