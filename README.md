@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4ykel
 - 👀 I’m interested in learning more about programming.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Tailwind CSS.
 - 💞️ I’m looking to collaborate with other programmers.
 - 🎮 Fun fact: I love to play games.
 
